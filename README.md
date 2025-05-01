@@ -45,8 +45,8 @@ I’m committed to continuous learning and open-source collaboration, with a lov
 ## 📫 Connect with Me
 
 - 🌐 Portfolio: [udaybhookya.github.io](https://udaybhookya.github.io/)
-- 💼 LinkedIn: [linkedin.com/in/udaychandrabhookya](https://www.linkedin.com/in/udaychandrabhookya)
-- 📨 Email: uday.chandra@example.com
+- 💼 LinkedIn: [linkedin.com/in/uday-chandra](https://www.linkedin.com/in/uday-chandra/)
+- 📨 Email: bhookyauday@gmail.com 
 
 ---
 
