@@ -27,10 +27,10 @@ I’m committed to continuous learning and open-source collaboration, with a lov
 - **Machine Learning & Deep Learning**: Time Series Forecasting, Classification, Regression, Anomaly Detection, Recommender Systems, Neural Networks (CNNs, RNNs, GNNs), Matplotlib, Seaborn
 - **Generative AI**: LLMs, Prompt Engineering, LangChain, LangGraph, Retrieval-Augmented Generation (RAG)
 - **Tools & Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Keras, Scikit-learn, TensorFlow, PyTorch
-- **Programming Languages**: Python, Java, C, JavaScript, Go
-- **Big Data & Cloud**: PySpark, GCP, Azure, Docker, Kubernetes, CI/CD
+- **Programming Languages**: Python, Java, C, JavaScript
+- **Big Data & Cloud**: PySpark, GCP, Azure,
 - **Databases**: MySQL, PostgreSQL, NoSQL
-- **Web Frameworks & Deployment**: Django, Flask, React.js, GitHub Pages
+- **Web Frameworks & Deployment**: Django, Flask, React.js
 
 ---
 
