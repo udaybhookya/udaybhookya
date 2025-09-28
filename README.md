@@ -36,7 +36,7 @@ I’m committed to continuous learning and open-source collaboration, with a lov
 
 ## 🏆 Achievements & Highlights
 
-- 📄 **3 Publications** on AI-driven analytics and pattern mining.
+- 📄 **4 Publications** on AI-driven analytics and pattern mining.
 - 📜 **4 Patents** filed on intelligent data storytelling and AI-driven cloud cost optimization (pending grants).
 - 🏅 Recognized for delivering high-impact data insights and tools at Digitate.
 
